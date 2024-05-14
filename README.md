@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -15,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,13 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![QR Code Project Screenshot](images\Screenshot-project.png)
 
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
+
+I started by reading through all the documents and seeing what resources were provided in this project. After I felt like I had a good grasp on what was expected, I started to plan out what I needed to write to make it happen. I began creating classses and styles to make things the correct colors and sizes. I added my image and tags for the different sections of my code. I didn't know how to add the correct font, round the corners, or center the text, so I headed to the internet to find some answers. I managed to find plenty of useful resources on that, so I proceeded to get those elements added correctly. At this point I was nearly finished with the project, but there was a little more troubleshooting left to do in order to make everything the exact matching proportions from the example images. After working on that for a bit, I was finally happy with the results.
 
 ### Built with
 
@@ -41,36 +35,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This is the first project I have made using HTML and CSS. I've been going through some online tutorials and I was ready to get started practicing the concepts I've read about. This project helped me learn about putting items in containers and how adjusting those containers can change what's inside. I learned more about how to use classes to conveniently change characteristics of my project.
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I plan to continue going through tutorials to learn more concepts and apply them in Frontend Mentor projects. I would like to learn more about how to use separate CSS files to define classes instead of writing all the CSS above my HTML code.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [Educational Resource 1](https://www.w3schools.com/) - This site helped me learn some inital HTML and CSS to begin working on this project.
 - [Color Resource](https://www.w3schools.com/colors/colors_names.asp) - This is a great reference for color names in HTML.
 - [Tags Reference](https://www.w3schools.com/tags/default.asp) - This page is helpful to reference tags you may forget while learning how to write HTML
-
 
 
 ## Author
