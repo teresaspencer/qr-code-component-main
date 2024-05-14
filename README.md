@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[](images\Screenshot-project.png)
+![QR Code Project Screenshot](images\Screenshot-project.png)
 
 
 
@@ -79,10 +79,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [@teresaspencer](https://www.frontendmentor.io/profile/teresaspencer)
 - LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thank you to my partner who assisted in getting my workspace set up and patiently dealt with my frustrations through that process.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
